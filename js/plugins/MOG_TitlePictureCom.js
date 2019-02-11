@@ -269,8 +269,8 @@
 
   　Moghunter.parameters = PluginManager.parameters('MOG_TitlePictureCom');
 	Moghunter.title_sprite = (Moghunter.parameters['Title Sprite'] || false);
-	Moghunter.title_x = Number(Moghunter.parameters['Title Sprite X-Axis '] || 300);
-	Moghunter.title_y = Number(Moghunter.parameters['Title Sprite Y-Axis '] || 150);
+	Moghunter.title_x = Number(Moghunter.parameters['Title Sprite X-Axis '] || 780);
+	Moghunter.title_y = Number(Moghunter.parameters['Title Sprite Y-Axis '] || 600);
 	Moghunter.title_zoomEffect = String(Moghunter.parameters['Zoom Effect'] || "true");
 	Moghunter.title_zoomDuration = Number(Moghunter.parameters['Zoom Speed'] || 40); 
 	Moghunter.title_FadeInDuration = Number(Moghunter.parameters['Fade-In Duration'] || 40);

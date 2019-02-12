@@ -39,6 +39,7 @@ Game_Temp.prototype.reservedCommonEvent = function() {
 };
 
 Game_Temp.prototype.setDestination = function(x, y) {
+    return; //Added by Jordan to remove mouse movement
     this._destinationX = x;
     this._destinationY = y;
 };

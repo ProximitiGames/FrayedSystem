@@ -407,7 +407,7 @@ function QSight() {
       if (options.base.isPolygon()) {
         var radian = this._radian;
         radian -= Math.PI / 2; // Rotate because base shape is facing down
-        this._sight.base.setRadian(radian);
+        // this._sight.base.setRadian(radian);
       }
       if (options.base.intersects(target.collider('collision'))) {
         if (_SHOW) {

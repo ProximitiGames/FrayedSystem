@@ -1,39 +1,7 @@
 [
-    null,
-    {
-        "id": 1,
-        "expanded": true,
-        "name": "Test1",
-        "order": 1,
-        "parentId": 0,
-        "scrollX": 5616,
-        "scrollY": 3161.142857142857
-    },
-    {
-        "id": 2,
-        "expanded": false,
-        "name": "Floor 3",
-        "order": 1,
-        "parentId": 0,
-        "scrollX": 5616,
-        "scrollY": 3161.142857142857
-    },
-    {
-        "id": 3,
-        "expanded": false,
-        "name": "Floor 4",
-        "order": 3,
-        "parentId": 0,
-        "scrollX": 5616,
-        "scrollY": 3161.142857142857
-    },
-    {
-        "id": 4,
-        "expanded": false,
-        "name": "TestAI",
-        "order": 4,
-        "parentId": 0,
-        "scrollX": 1404,
-        "scrollY": 790.2857142857142
-    }
+null,
+{"id":1,"expanded":true,"name":"Test1","order":1,"parentId":0,"scrollX":5616,"scrollY":3161.142857142857},
+{"id":2,"expanded":false,"name":"Floor 3","order":1,"parentId":0,"scrollX":5193.599999999999,"scrollY":3028.7999999999997},
+{"id":3,"expanded":false,"name":"Floor 4","order":3,"parentId":0,"scrollX":4406.4,"scrollY":3105.6},
+{"id":4,"expanded":false,"name":"TestAI","order":4,"parentId":0,"scrollX":4406.4,"scrollY":3105.6}
 ]

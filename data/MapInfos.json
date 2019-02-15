@@ -2,6 +2,6 @@
 null,
 {"id":1,"expanded":true,"name":"Test1","order":1,"parentId":0,"scrollX":1129.5,"scrollY":448},
 {"id":2,"expanded":true,"name":"Floor 3","order":2,"parentId":0,"scrollX":1278.5,"scrollY":1776},
-{"id":3,"expanded":false,"name":"Floor 4","order":3,"parentId":0,"scrollX":2446.909090909091,"scrollY":1636.3636363636365},
+{"id":3,"expanded":false,"name":"Floor 4","order":3,"parentId":0,"scrollX":1922.5714285714284,"scrollY":2118.8571428571427},
 {"id":4,"expanded":false,"name":"TestAI","order":4,"parentId":0,"scrollX":1092,"scrollY":597.3333333333334}
 ]

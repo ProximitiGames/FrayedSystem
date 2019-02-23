@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"Test1","order":10,"parentId":6,"scrollX":1094.6666666666667,"scrollY":604},
 {"id":2,"expanded":true,"name":"Decorations","order":12,"parentId":6,"scrollX":1312,"scrollY":1806.6666666666667},
-{"id":3,"expanded":true,"name":"Floor 4","order":7,"parentId":0,"scrollX":1508,"scrollY":3246.6666666666665},
+{"id":3,"expanded":true,"name":"Floor 4","order":7,"parentId":0,"scrollX":1508,"scrollY":2446.6666666666665},
 {"id":4,"expanded":true,"name":"TestAI","order":11,"parentId":6,"scrollX":2278,"scrollY":906},
 {"id":5,"expanded":false,"name":"Floor 4 Reset","order":8,"parentId":3,"scrollX":1518.6666666666667,"scrollY":604},
 {"id":6,"expanded":false,"name":"Test","order":9,"parentId":0,"scrollX":1518.6666666666667,"scrollY":604},

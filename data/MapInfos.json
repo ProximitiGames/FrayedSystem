@@ -12,6 +12,6 @@ null,
 {"id":10,"expanded":false,"name":"Floor 2 Reset","order":4,"parentId":9,"scrollX":1090.6666666666667,"scrollY":608.6666666666666},
 {"id":11,"expanded":true,"name":"Floor 1","order":1,"parentId":0,"scrollX":2071.5,"scrollY":2206.5},
 {"id":12,"expanded":false,"name":"Floor 1 Reset","order":2,"parentId":11,"scrollX":540.6666666666666,"scrollY":316.6666666666667},
-{"id":13,"expanded":false,"name":"Alva's Office","order":13,"parentId":0,"scrollX":1228.5,"scrollY":691.5},
+{"id":13,"expanded":false,"name":"Alva's Office","order":13,"parentId":0,"scrollX":1092,"scrollY":598},
 {"id":14,"expanded":false,"name":"Notes","order":14,"parentId":0,"scrollX":1228.5,"scrollY":691.5}
 ]

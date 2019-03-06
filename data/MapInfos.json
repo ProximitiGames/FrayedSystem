@@ -5,18 +5,14 @@ null,
 {"id":3,"expanded":true,"name":"Floor 4","order":8,"parentId":0,"scrollX":1915.5,"scrollY":2626.5},
 {"id":4,"expanded":true,"name":"TestAI","order":12,"parentId":6,"scrollX":2278,"scrollY":906},
 {"id":5,"expanded":false,"name":"Floor 4 Reset","order":9,"parentId":3,"scrollX":1786.909090909091,"scrollY":1005.8181818181819},
-{"id":6,"expanded":false,"name":"Test","order":10,"parentId":0,"scrollX":1501.3333333333333,"scrollY":597.3333333333334},
-{"id":7,"expanded":true,"name":"Floor 3","order":6,"parentId":0,"scrollX":2236,"scrollY":1376},
+{"id":6,"expanded":false,"name":"Test","order":10,"parentId":0,"scrollX":1518.6666666666667,"scrollY":604},
+{"id":7,"expanded":true,"name":"Floor 3","order":6,"parentId":0,"scrollX":1900,"scrollY":1776},
 {"id":8,"expanded":true,"name":"Floor 3 Reset","order":7,"parentId":7,"scrollX":1930.2857142857142,"scrollY":768},
-{"id":9,"expanded":true,"name":"Floor 2","order":4,"parentId":0,"scrollX":1923.4285714285713,"scrollY":1770.8571428571427},
+{"id":9,"expanded":true,"name":"Floor 2","order":4,"parentId":0,"scrollX":1508,"scrollY":2393.3333333333335},
 {"id":10,"expanded":false,"name":"Floor 2 Reset","order":5,"parentId":9,"scrollX":1930.2857142857142,"scrollY":768},
-{"id":11,"expanded":true,"name":"Floor 1","order":1,"parentId":0,"scrollX":1916.5714285714284,"scrollY":3085.7142857142853},
+{"id":11,"expanded":true,"name":"Floor 1","order":1,"parentId":0,"scrollX":1508,"scrollY":1592},
 {"id":12,"expanded":true,"name":"Floor 1 Reset","order":3,"parentId":13,"scrollX":832,"scrollY":640},
 {"id":13,"expanded":true,"name":"Holding Cell","order":2,"parentId":11,"scrollX":1068,"scrollY":1310},
-<<<<<<< HEAD
-{"id":14,"expanded":true,"name":"Floor 3 - Gameplay","order":14,"parentId":0,"scrollX":1490.6666666666667,"scrollY":3232}
-=======
-{"id":14,"expanded":true,"name":"Floor 3 - Gameplay","order":14,"parentId":0,"scrollX":1490.6666666666667,"scrollY":3253.3333333333335}
-{"id":15,"expanded":false,"name":"Alva's Office","order":15,"parentId":0,"scrollX":1638,"scrollY":922}
->>>>>>> parent of d977085... Revert "Merge branch 'staging' into Will/MiscChanges"
+{"id":14,"expanded":true,"name":"Floor 3 - Gameplay","order":14,"parentId":0,"scrollX":1508,"scrollY":1273.3333333333333},
+{"id":15,"expanded":false,"name":"Alva's Office","order":15,"parentId":14,"scrollX":1518.6666666666667,"scrollY":604}
 ]

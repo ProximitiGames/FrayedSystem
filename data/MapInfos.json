@@ -14,4 +14,5 @@ null,
 {"id":12,"expanded":true,"name":"Floor 1 Reset","order":3,"parentId":13,"scrollX":832,"scrollY":640},
 {"id":13,"expanded":true,"name":"Holding Cell","order":2,"parentId":11,"scrollX":1068,"scrollY":1310},
 {"id":14,"expanded":true,"name":"Floor 3 - Gameplay","order":14,"parentId":0,"scrollX":1490.6666666666667,"scrollY":3253.3333333333335}
+{"id":15,"expanded":false,"name":"Alva's Office","order":15,"parentId":0,"scrollX":1638,"scrollY":922}
 ]

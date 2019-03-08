@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"Test1","order":11,"parentId":6,"scrollX":1094.6666666666667,"scrollY":604},
 {"id":2,"expanded":true,"name":"Decorations","order":13,"parentId":6,"scrollX":1312,"scrollY":1806.6666666666667},
-{"id":3,"expanded":true,"name":"Floor 4","order":8,"parentId":0,"scrollX":3483.428571428571,"scrollY":2681.142857142857},
+{"id":3,"expanded":true,"name":"Floor 4","order":8,"parentId":0,"scrollX":2163,"scrollY":2362.5},
 {"id":4,"expanded":true,"name":"TestAI","order":12,"parentId":6,"scrollX":2278,"scrollY":906},
 {"id":5,"expanded":false,"name":"Floor 4 Reset","order":9,"parentId":3,"scrollX":3483.428571428571,"scrollY":2681.142857142857},
 {"id":6,"expanded":false,"name":"Test","order":10,"parentId":0,"scrollX":2485.090909090909,"scrollY":988.3636363636364},
@@ -15,5 +15,5 @@ null,
 {"id":13,"expanded":true,"name":"Holding Cell","order":2,"parentId":11,"scrollX":2184,"scrollY":1229.3333333333333},
 {"id":14,"expanded":true,"name":"Floor 3 - Gameplay","order":14,"parentId":0,"scrollX":2070.5454545454545,"scrollY":1581.818181818182},
 {"id":15,"expanded":false,"name":"Alva's Office","order":16,"parentId":0,"scrollX":2278,"scrollY":906},
-{"id":16,"expanded":true,"name":"Floor 3 - Gameplay","order":15,"parentId":14,"scrollX":3016,"scrollY":1208}
+{"id":16,"expanded":true,"name":"Floor 3 - Gameplay","order":15,"parentId":14,"scrollX":2623.5,"scrollY":1207.5}
 ]

@@ -16,7 +16,7 @@ null,
 {"id":14,"expanded":true,"name":"Floor 3 - Gameplay","order":14,"parentId":0,"scrollX":1408,"scrollY":1903},
 {"id":15,"expanded":false,"name":"Floor 1 Reset","order":2,"parentId":11,"scrollX":2184,"scrollY":1229.3333333333333},
 {"id":16,"expanded":true,"name":"Floor 3 - Gameplay","order":15,"parentId":14,"scrollX":2433,"scrollY":1858.5},
-{"id":17,"expanded":true,"name":"Floor 5 (Server Room)","order":16,"parentId":0,"scrollX":1020,"scrollY":4557},
+{"id":17,"expanded":true,"name":"Floor 5 (Server Room)","order":16,"parentId":0,"scrollX":2152,"scrollY":2275},
 {"id":18,"expanded":false,"name":"Floor 5 Reset","order":17,"parentId":17,"scrollX":1636,"scrollY":896},
 {"id":19,"expanded":true,"name":"CEO Office","order":18,"parentId":0,"scrollX":852,"scrollY":655},
 {"id":20,"expanded":true,"name":"CEO Reset","order":19,"parentId":19,"scrollX":1638,"scrollY":907}
